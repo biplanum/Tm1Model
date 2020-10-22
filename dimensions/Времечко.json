@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Времечко",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Времечко')/Hierarchies('Времечко')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Времечко.hierarchies/Времечко.json"
+	]
+}

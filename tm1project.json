@@ -1,7 +1,10 @@
-"Ignore":
-[
-  "Cubes/Views",
-  "Processes",
-  "Dimensions",
-  "!Dimensions('Времечко')"
-]
+ {
+  "Version": "1.0",
+  "Ignore":
+  [
+    "Cubes/Views",
+    "Processes",
+    "Dimensions",
+    "!Dimensions('Времечко')"
+  ]
+}

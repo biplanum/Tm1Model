@@ -1,14 +1,4 @@
-{
-    "Version": "1.0",
-    "Objects":
-    {
-      "Dimensions('Времечко')":
-      {
-        "Precondition": "UseForce()"
-      },
-        "Dimensions('Время')":
-      {
-        "Precondition": "UseForce()"
-      }
-    }
-}
+"Ignore":
+[
+  "!Dimensions('Времечко')"
+]

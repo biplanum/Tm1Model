@@ -1,5 +1,7 @@
 "Ignore":
 [
+  "Cubes/Views",
+  "Processes",
   "Dimensions",
   "!Dimensions('Времечко')"
 ]

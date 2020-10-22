@@ -5,6 +5,10 @@
       "Dimensions('Времечко')":
       {
         "Precondition": "UseForce()"
+      },
+        "Dimensions('Время')":
+      {
+        "Precondition": "UseForce()"
       }
     }
 }

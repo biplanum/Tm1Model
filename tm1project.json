@@ -6,6 +6,9 @@
         "Dimensions",
         "Processes",
         "Dimensions",
-        "!Cubes('Амортизация ОС')"
+        "!Cubes('Амортизация ОС')",
+        "!Dimensions('Репозитории')",
+        "!Processes('Измерение ФОТ')",
+        "!Processes('Измерение ФОТ 2')"
     ]
 }

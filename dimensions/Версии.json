@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Версии",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Версии')/Hierarchies('Версии')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Версии.hierarchies/Версии.json"
+	]
+}

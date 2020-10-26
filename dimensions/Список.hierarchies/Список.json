@@ -66,6 +66,14 @@
 		{
 			"Name":"15",
 			"Type":"Numeric"
+		},
+		{
+			"Name":"16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"17",
+			"Type":"Numeric"
 		}
 	],
 	"Edges":
@@ -143,6 +151,16 @@
 		{
 			"ParentName":"Итого количество",
 			"ComponentName":"15",
+			"Weight":1
+		},
+		{
+			"ParentName":"Итого количество",
+			"ComponentName":"16",
+			"Weight":1
+		},
+		{
+			"ParentName":"Итого количество",
+			"ComponentName":"17",
 			"Weight":1
 		}
 	],

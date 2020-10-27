@@ -5,6 +5,18 @@
       "Dimensions('Репозитории')":
       {
         "Precondition": "UseForce()"
+      },
+        "Processes('Измерение ФОТ')":
+      {
+        "Precondition": "UseForce()"
+      },
+        "Processes('Измерение ФОТ 2')":
+      {
+        "Precondition": "UseForce()"
+      },
+        "Cubes('Амортизация ОС')":
+      {
+        "Precondition": "UseForce()"
       }
     }
 }

@@ -1,0 +1,14 @@
+{
+    "Version": "1.0",
+    "Ignore": [
+        "Cubes/Views",
+        "Cubes",
+        "Dimensions",
+        "Processes",
+        "Dimensions",
+        "!Cubes('Амортизация ОС')",
+        "!Dimensions('Репозитории')",
+        "!Processes('Измерение ФОТ')",
+        "!Processes('Измерение ФОТ 2')"
+    ]
+}

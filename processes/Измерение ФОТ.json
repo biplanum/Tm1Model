@@ -1,0 +1,19 @@
+{
+	"@type":"Process",
+	"Name":"Измерение ФОТ",
+	"Code@Code.link":"Измерение ФОТ.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":",",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":".",
+		"dataSourceNameForClient":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\фот.csv",
+		"dataSourceNameForServer":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\фот.csv"
+	},
+	"Parameters":[],
+	"Variables":[]
+}

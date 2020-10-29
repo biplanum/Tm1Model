@@ -5,7 +5,8 @@
 	[
 		{
 			"Name":"16",
-			"Type":"Numeric"
+			"Type":"Numeric",
+			"Attributes":"AtrAl","SecondName","Number"
 		},
 		{
 			"Name":"17",

@@ -7,6 +7,9 @@
         "Processes",
         "!Cubes('}ElementAttributes_Измерение 1')",
         "!Dimensions('Измерение 1')",
-        "!Dimensions('}ElementAttributes_Измерение 1')"
+        "!Dimensions('}ElementAttributes_Измерение 1')",
+        "!Dimensions('}LineNumber')",
+        "!Dimensions('}RuleStats')",
+        "!Dimensions('}TimeIntervals')"
     ]
 }

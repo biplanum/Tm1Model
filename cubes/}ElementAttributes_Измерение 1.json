@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"}ElementAttributes_Измерение 1",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Измерение 1')"
+		},
+		{
+			"@id":"Dimensions('}ElementAttributes_Измерение 1')"
+		}
+	],
+	"Views@Code.links":[]
+}

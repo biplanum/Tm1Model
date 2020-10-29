@@ -5,10 +5,8 @@
         "Cubes",
         "Dimensions",
         "Processes",
-        "Dimensions",
-        "!Cubes('Амортизация ОС')",
-        "!Dimensions('Репозитории')",
-        "!Processes('Измерение ФОТ')",
-        "!Processes('Измерение ФОТ 2')"
+        "!Cubes('}ElementAttributes_Измерение 1')",
+        "!Dimensions('Измерение 1')",
+        "!Dimensions('}ElementAttributes_Измерение 1')"
     ]
 }

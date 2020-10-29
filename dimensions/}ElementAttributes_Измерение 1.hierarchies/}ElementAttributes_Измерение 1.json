@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"}ElementAttributes_Измерение 1",
+	"Elements":
+	[
+		{
+			"Name":"SecondName",
+			"Type":"String"
+		},
+		{
+			"Name":"Number",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

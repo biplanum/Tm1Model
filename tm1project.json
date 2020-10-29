@@ -1,12 +1,1 @@
-{
-    "Version": "1.0",
-    "Ignore": [
-        "Cubes/Views",
-        "Cubes",
-        "Dimensions",
-        "Processes",
-        "!Dimensions('Измерение 1')",
-        "!Dimensions('}ElementAttributes_Измерение 1')",
-        "!Cubes('}ElementAttributes_Измерение 1')"
-    ]
-}
+

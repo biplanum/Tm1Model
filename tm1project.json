@@ -10,6 +10,7 @@
         "!Cubes('}ElementAttributes_Измерение 1')",
         "!Dimensions('}Hierarchies')",
         "!Cubes('Амортизация ОС')",
-        "!Cubes/Views('View first')"
+        "!Cubes/Views('View first')",
+        "!Dimensions('Git credential')"
     ]
 }

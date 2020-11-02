@@ -1,10 +1,15 @@
 {
     "Version": "1.0",
-    "Objects":
-    {
-      "Dimensions('Измерение 1')":
-      {
-        "Precondition": "UseForce()"
-      }
-    }
+    "Ignore": [
+        "Cubes/Views",
+        "Cubes",
+        "Dimensions",
+        "Processes",
+        "!Dimensions('Измерение 1.json')", 
+        "!Dimensions('}ElementAttributes_Измерение 1')",
+        "!Cubes('}ElementAttributes_Измерение 1')",
+        "!Dimensions('}Hierarchies')",
+        "!Cubes('Амортизация ОС')",
+        "!Cubes/Views('View first')"
+    ]
 }

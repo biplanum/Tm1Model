@@ -5,17 +5,6 @@
         "Cubes",
         "Dimensions",
         "Processes",
-        "!Dimensions('Измерение 1.json')", 
-        "!Dimensions('}ElementAttributes_Измерение 1')",
-        "!Cubes('}ElementAttributes_Измерение 1')",
-        "!Cubes/Views('View first')"
-    ],
-    "Name" : "Second Name for tm1project file",
-    "Tasks":
-    {
-        "Task_A":
-        {
-            "Process": "Processes('Измерение ЦФО')"
-        }
-    }
+        "!Processes('Измерение ЦФО 2')"
+    ]
 }

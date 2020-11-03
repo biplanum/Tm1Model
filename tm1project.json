@@ -6,5 +6,12 @@
         "Dimensions",
         "Processes",
         "!Processes('Измерение ЦФО 2')"
-    ]
+    ],
+    "Tasks":
+    {
+        "Task_A":
+        {
+            "Process": "Processes('Измерение ЦФО')"
+        }
+    }
 }

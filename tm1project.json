@@ -14,7 +14,14 @@
     {
         "Administration":
         {
-            "ServerName": "GIT_Prod_"
+            "ServerName": "GIT_Prod"
+        },
+        "Access":
+        {
+            "HTTP":
+            {
+            "Port": 18919
+            }
         }
     }
 }

@@ -18,10 +18,7 @@
         },
         "Access":
         {
-            "HTTP":
-            {
-            "Port": 18918
-            }
+            "MaximumLoginAttempts" : 120
         }
     }
 }

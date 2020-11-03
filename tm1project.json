@@ -10,5 +10,13 @@
         "!Cubes('}ElementAttributes_Измерение 1')",
         "!Cubes/Views('View first')"
     ],
-    "Name" : "First Name for tm1project file"
+    "Name" : "Second Name for tm1project file",
+    ,
+    "Tasks":
+    {
+        "Task_A":
+        {
+            "Process": "Processes('Измерение ФОТ')"
+        }
+    }
 }

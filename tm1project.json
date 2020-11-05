@@ -1,16 +1,15 @@
 {
     "Version": "1.0",
-    "Ignore": [
-        "Cubes/Views",
-        "Cubes",
-        "Dimensions",
-        "Processes"
-    ],
+    
     "Objects":
     {
         "Dimensions":
         {
             "Link": "/all_dimensions.json"
+        },
+        "Files":
+        {
+            "Link": "/all_files/"
         }
     }
 }

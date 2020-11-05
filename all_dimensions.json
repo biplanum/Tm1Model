@@ -1,4 +1,102 @@
 {
 	"@type":"Collection(Dimension)",
-	"value":[]
+	"value":
+	[
+		{
+			"Name":"Git credential",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Git credential')/Hierarchies('Git credential')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Git credential.hierarchies/Git credential.json"
+			]
+		},
+		{
+			"Name":"Версии",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Версии')/Hierarchies('Версии')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Версии.hierarchies/Версии.json"
+			]
+		},
+		{
+			"Name":"Время",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Время')/Hierarchies('Время')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Время.hierarchies/Время.json"
+			]
+		},
+		{
+			"Name":"Измерение 1",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Измерение 1')/Hierarchies('Измерение 1')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Измерение 1.hierarchies/Измерение 1.json"
+			]
+		},
+		{
+			"Name":"Показатели Амортизация ОС",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Показатели Амортизация ОС.hierarchies/Показатели Амортизация ОС.json"
+			]
+		},
+		{
+			"Name":"Репозитории",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Репозитории')/Hierarchies('Репозитории')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Репозитории.hierarchies/Репозитории.json"
+			]
+		},
+		{
+			"Name":"Список",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Список')/Hierarchies('Список')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Список.hierarchies/Список.json"
+			]
+		},
+		{
+			"Name":"ЦФО",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"ЦФО.hierarchies/ЦФО.json"
+			]
+		}
+	]
 }

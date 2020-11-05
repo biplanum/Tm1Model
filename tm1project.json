@@ -5,7 +5,7 @@
         "Cubes",
         "Dimensions",
         "Processes",
-        "!Processes('Измерение ЦФО 2')"
+        "!Processes('Выборка ЦФО Москва')"
     ]
 
 }

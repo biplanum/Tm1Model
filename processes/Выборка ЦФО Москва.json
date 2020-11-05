@@ -1,7 +1,7 @@
 {
 	"@type":"Process",
-	"Name":"Измерение ЦФО 2",
-	"Code@Code.link":"Измерение ЦФО 2.ti",
+	"Name":"Выборка ЦФО Москва",
+	"Code@Code.link":"Выборка ЦФО Москва.ti",
 	"DataSource":
 	{
 		"Type":"ASCII",

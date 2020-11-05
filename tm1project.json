@@ -1,22 +1,10 @@
 {
     "Version": "1.0",
-    "Objects":
-    {
-      "Dimensions('Репозитории')":
-      {
-        "Precondition": "UseForce()"
-      },
-        "Processes('Измерение ФОТ')":
-      {
-        "Precondition": "UseForce()"
-      },
-        "Processes('Измерение ФОТ 2')":
-      {
-        "Precondition": "UseForce()"
-      },
-        "Cubes('Амортизация ОС')":
-      {
-        "Precondition": "UseForce()"
-      }
-    }
+    "Ignore": [
+        "Cubes/Views",
+        "Cubes",
+        "Dimensions",
+        "Processes",
+        "!Dimensions('Репозитории')"
+    ]
 }

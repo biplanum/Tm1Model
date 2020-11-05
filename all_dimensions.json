@@ -1,4 +1,18 @@
 {
 	"@type":"Collection(Dimension)",
-	"value":[]
+	"value":
+	[
+		{
+			"Name":"Репозитории",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Репозитории')/Hierarchies('Репозитории')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Репозитории.hierarchies/Репозитории.json"
+			]
+		}
+	]
 }

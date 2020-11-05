@@ -5,7 +5,7 @@
         "Cubes",
         "Dimensions",
         "Processes",
-        "Dimensions('Репозитории')"
+        "!Dimensions('Репозитории')"
     ],
     "Objects":
     {

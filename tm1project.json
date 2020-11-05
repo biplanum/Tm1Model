@@ -6,12 +6,5 @@
         "Dimensions",
         "Processes",
         "!Dimensions('Репозитории')"
-    ],
-    "Objects":
-    {
-        "Dimensions":
-        {
-            "Link": "/all_dimensions.json"
-        }
-    }
+    ]
 }

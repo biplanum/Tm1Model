@@ -4,14 +4,13 @@
         "Cubes/Views",
         "Cubes",
         "Dimensions",
-        "Processes",
-        "!Processes('Измерение ЦФО 2')"
+        "Processes"
     ],
-    "Tasks":
+    "Objects":
     {
-        "Task_A":
+        "Dimensions":
         {
-            "Process": "Processes('Измерение ЦФО')"
+            "Link": "/all_dimensions.json"
         }
     }
 }

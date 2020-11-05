@@ -1,11 +1,3 @@
 {
-    "Version": "1.0",
-    "Ignore": [
-        "Cubes/Views",
-        "Cubes",
-        "Dimensions",
-        "Processes",
-        "!Dimensions('Репозитории')",
-        "!Dimensions('Измерение 1')"
-    ]
+    "Version": "1.0"
 }

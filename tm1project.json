@@ -1,1 +1,11 @@
+{
+    "Version": "1.0",
+    "Objects":
+    {
+      "Dimensions('Репозитории')":
+      {
+        "Precondition": "UseForce()"
+      }
+    }
 
+}

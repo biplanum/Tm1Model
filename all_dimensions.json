@@ -1,0 +1,30 @@
+{
+	"@type":"Collection(Dimension)",
+	"value":
+	[
+		{
+			"Name":"Измерение 1",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Измерение 1')/Hierarchies('Измерение 1')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Измерение 1.hierarchies/Измерение 1.json"
+			]
+		},
+		{
+			"Name":"Репозитории",
+			"AllLeavesHierarchyName":"",
+			"DefaultHierarchy":
+			{
+				"@id":"Dimensions('Репозитории')/Hierarchies('Репозитории')"
+			},
+			"Hierarchies@Code.links":
+			[
+				"Репозитории.hierarchies/Репозитории.json"
+			]
+		}
+	]
+}

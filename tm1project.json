@@ -1,11 +1,3 @@
 {
-    "Version": "1.0",
-    
-    "Objects":
-    {
-        "Dimensions":
-        {
-            "Link": "/all_dimensions.json"
-        }
-    }
+    "Version": "1.0"
 }

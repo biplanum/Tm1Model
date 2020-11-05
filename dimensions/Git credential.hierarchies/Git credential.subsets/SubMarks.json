@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"SubMarks",
-	"Expression":"TM1SubsetAll([Git credential])"
-}

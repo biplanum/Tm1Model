@@ -1,11 +1,10 @@
 {
     "Version": "1.0",
-    "Ignore": [
-        "Cubes/Views",
-        "Cubes",
-        "Dimensions",
-        "Processes",
-        "!Dimensions('Git credential')",
-        "!Dimensions('Измерение 1')"
-    ]
+    "Objects":
+    {
+      "Dimensions('Измерение 1')":
+      {
+        "Precondition": "Exists('Измерение 1')"
+      }
+    }
 }

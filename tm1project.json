@@ -4,7 +4,7 @@
     {
       "Dimensions('Измерение 1')":
       {
-        "Precondition": "Exists('Git credential')"
+        "Precondition": "Exists('/Git credential')"
       }
     }
 }

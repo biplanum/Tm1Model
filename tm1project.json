@@ -6,7 +6,16 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Cubes('Амортизация ОС')"
+        "!Processes('Измерение ЦФО 2')"
+    ],
+    "Objects": {
+        "Files":
+        {
+            "Link": "/}applications/Folder 1"
+        }
+    },
+    "Files":
+    [
+        "/}applications/Folder 1/цфо.csv"
     ]
-
 }

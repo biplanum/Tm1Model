@@ -5,7 +5,8 @@
         "Cubes",
         "Dimensions",
         "Processes",
-        "!Processes('Выборка ЦФО Москва')"
+        "Chores",
+        "!Chores('Сохранение данных')"
     ]
 
 }

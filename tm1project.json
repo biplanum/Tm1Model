@@ -6,7 +6,7 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Processes('Измерение ЦФО 2')"
+        "!Dimensions('Измерение 1')"
     ],
     "Objects": {
         "Files":

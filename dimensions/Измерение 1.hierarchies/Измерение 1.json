@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Измерение 1",
+	"Elements":
+	[
+		{
+			"Name":"16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Времечко",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

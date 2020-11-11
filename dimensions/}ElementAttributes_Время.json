@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"}ElementAttributes_Время",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}ElementAttributes_Время')/Hierarchies('}ElementAttributes_Время')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"}ElementAttributes_Время.hierarchies/}ElementAttributes_Время.json"
+	]
+}

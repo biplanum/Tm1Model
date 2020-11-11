@@ -1,14 +1,14 @@
 {
 	"@type":"Hierarchy",
-	"Name":"}ElementAttributes_Измерение 1",
+	"Name":"}ElementAttributes_Время",
 	"Elements":
 	[
 		{
-			"Name":"AtrAl",
+			"Name":"ShortName",
 			"Type":"String"
 		},
 		{
-			"Name":"SecondName",
+			"Name":"Next",
 			"Type":"String"
 		},
 		{

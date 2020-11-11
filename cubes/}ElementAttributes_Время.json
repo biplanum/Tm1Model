@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"}ElementAttributes_Время",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Время')"
+		},
+		{
+			"@id":"Dimensions('}ElementAttributes_Время')"
+		}
+	],
+	"Views@Code.links":[]
+}

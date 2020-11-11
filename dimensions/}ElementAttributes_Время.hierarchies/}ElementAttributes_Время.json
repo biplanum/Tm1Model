@@ -1,11 +1,11 @@
 {
 	"@type":"Hierarchy",
 	"Name":"}ElementAttributes_Время",
-	"fouygpui;hj":
+	"Elements":
 	[
 		{
 			"Name":"ShortName",
-			"Type":"Alias"
+			"Type":"String"
 		},
 		{
 			"Name":"Next",

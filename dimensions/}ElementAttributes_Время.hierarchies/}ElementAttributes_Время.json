@@ -5,7 +5,7 @@
 	[
 		{
 			"Name":"ShortName",
-			"Type":"String"
+			"Type":"Alias"
 		},
 		{
 			"Name":"Next",

@@ -6,8 +6,6 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Dimensions('Время')",
-        "!Dimensions('}ElementAttributes_Время')",
-        "!Cubes('}ElementAttributes_Время')"
+        "!Dimensions('Время')"
     ]
 }

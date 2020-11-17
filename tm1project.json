@@ -6,6 +6,6 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Dimensions('Время')"
+        "!Dimensions('Ports')"
     ]
 }

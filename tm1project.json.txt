@@ -1,0 +1,11 @@
+{
+    "Version": "1.0",
+    "Ignore": [
+        "Cubes/Views",
+        "Cubes",
+        "Dimensions",
+        "Processes",
+        "Chores",
+        "!Dimensions('Ports')"
+    ]
+}

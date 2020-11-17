@@ -17,5 +17,8 @@
 			"@id":"Dimensions('Показатели Амортизация ОС')"
 		}
 	],
-	"Views@Code.links":[]
+	"Views@Code.links":
+	[
+		"Амортизация ОС.views/View first.json"
+	]
 }

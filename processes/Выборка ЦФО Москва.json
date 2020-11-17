@@ -1,0 +1,35 @@
+{
+	"@type":"Process",
+	"Name":"Выборка ЦФО Москва",
+	"Code@Code.link":"Выборка ЦФО Москва.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":0,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\цфо.csv",
+		"dataSourceNameForServer":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\цфо.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"V1",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V2",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

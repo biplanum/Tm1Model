@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"ЦФО 2",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('ЦФО 2')/Hierarchies('ЦФО 2')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"ЦФО 2.hierarchies/ЦФО 2.json"
+	]
+}

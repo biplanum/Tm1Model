@@ -1,0 +1,228 @@
+{
+	"@type":"NativeView",
+	"Name":"View first",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Название ОС')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Тип ОС')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Спецификация ОС')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Месяц ввода в эксплуатацию')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Месяцев амортизации')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Первоначальная стоимость')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Январь')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Февраль')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Март')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Апрель')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Май')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Июнь')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Июль')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Август')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Сентябрь')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Октябрь')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Ноябрь')"
+					},
+					{
+						"@id":"Dimensions('Показатели Амортизация ОС')/Hierarchies('Показатели Амортизация ОС')/Elements('Декабрь')"
+					}
+				]
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Россия')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Москва')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Административно-хозяйственный блок')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Аппарат и секретариаты')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Финансовый блок')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Руководство (общепроизводственные расходы)')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Санкт-Петербург')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Волгоград')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Пермь')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Владивосток')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Итого по Центрам затрат')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Германия')"
+					},
+					{
+						"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('США')"
+					}
+				]
+			}
+		}
+	],
+	"Titles":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Версии')/Hierarchies('Версии')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Версии')/Hierarchies('Версии')/Elements('Отклонение')"
+					},
+					{
+						"@id":"Dimensions('Версии')/Hierarchies('Версии')/Elements('План')"
+					},
+					{
+						"@id":"Dimensions('Версии')/Hierarchies('Версии')/Elements('Факт')"
+					}
+				]
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Версии')/Hierarchies('Версии')/Elements('План')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Список')/Hierarchies('Список')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('Итого количество')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('1')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('2')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('3')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('4')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('5')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('6')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('7')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('8')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('9')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('10')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('11')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('12')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('13')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('14')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('15')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('16')"
+					},
+					{
+						"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('17')"
+					}
+				]
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Список')/Hierarchies('Список')/Elements('5')"
+			}
+		}
+	],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.#########"
+}

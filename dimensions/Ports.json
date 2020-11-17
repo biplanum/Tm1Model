@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Ports",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Ports')/Hierarchies('Ports')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Ports.hierarchies/Ports.json"
+	]
+}

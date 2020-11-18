@@ -1,5 +1,8 @@
 {
     "Version": "1.0",
+    "Ignore": [
+        "Dimensions"
+    ],
     "Objects":
     {
       "Dimensions('Ports')":

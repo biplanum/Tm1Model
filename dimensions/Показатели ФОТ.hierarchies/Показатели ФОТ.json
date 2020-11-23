@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Показатели ФОТ",
+	"Elements":
+	[
+		{
+			"Name":"Количество",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"На одного человека",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"На весь персонал",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

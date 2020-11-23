@@ -1,0 +1,33 @@
+{
+	"@type":"Cube",
+	"Name":"ФОТ",
+	"Rules@Code.link":"ФОТ.rules",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Версии')"
+		},
+		{
+			"@id":"Dimensions('Валюта')"
+		},
+		{
+			"@id":"Dimensions('Время')"
+		},
+		{
+			"@id":"Dimensions('Статьи ФОТ')"
+		},
+		{
+			"@id":"Dimensions('Должности')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')"
+		},
+		{
+			"@id":"Dimensions('Показатели ФОТ')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"ФОТ.views/Россия План.json"
+	]
+}

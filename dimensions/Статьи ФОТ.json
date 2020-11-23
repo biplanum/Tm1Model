@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Статьи ФОТ",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Статьи ФОТ')/Hierarchies('Статьи ФОТ')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Статьи ФОТ.hierarchies/Статьи ФОТ.json"
+	]
+}

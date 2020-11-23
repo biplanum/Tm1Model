@@ -1,0 +1,280 @@
+{
+	"@type":"Hierarchy",
+	"Name":"ЦФО",
+	"Elements":
+	[
+		{
+			"Name":"Итого по Центрам затрат",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Германия",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Лаборатория",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Технологический отдел",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"США",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Инвестиционный блок",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Россия",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Москва",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Административно-хозяйственный блок",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Аппарат и секретариаты",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Финансовый блок",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Руководство (общепроизводственные расходы)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Санкт-Петербург",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Блок внутреннего контроля",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Учебно-курсовой комбинат",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Волгоград",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Пекарня",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Исследовательский центр",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Пермь",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Проектный центр",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Магазины",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Парк экскаваторов",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Буровзрывной цех",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Буровой участок",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Фабрика",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Пожарная охрана",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Склады",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Владивосток",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Молочный цех",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Геологическая служба",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Итого по Центрам затрат",
+			"ComponentName":"Германия",
+			"Weight":1
+		},
+		{
+			"ParentName":"Итого по Центрам затрат",
+			"ComponentName":"США",
+			"Weight":1
+		},
+		{
+			"ParentName":"Итого по Центрам затрат",
+			"ComponentName":"Россия",
+			"Weight":1
+		},
+		{
+			"ParentName":"Германия",
+			"ComponentName":"Лаборатория",
+			"Weight":1
+		},
+		{
+			"ParentName":"Германия",
+			"ComponentName":"Технологический отдел",
+			"Weight":1
+		},
+		{
+			"ParentName":"США",
+			"ComponentName":"Инвестиционный блок",
+			"Weight":1
+		},
+		{
+			"ParentName":"Россия",
+			"ComponentName":"Москва",
+			"Weight":1
+		},
+		{
+			"ParentName":"Россия",
+			"ComponentName":"Санкт-Петербург",
+			"Weight":1
+		},
+		{
+			"ParentName":"Россия",
+			"ComponentName":"Волгоград",
+			"Weight":1
+		},
+		{
+			"ParentName":"Россия",
+			"ComponentName":"Пермь",
+			"Weight":1
+		},
+		{
+			"ParentName":"Россия",
+			"ComponentName":"Владивосток",
+			"Weight":1
+		},
+		{
+			"ParentName":"Москва",
+			"ComponentName":"Административно-хозяйственный блок",
+			"Weight":1
+		},
+		{
+			"ParentName":"Москва",
+			"ComponentName":"Аппарат и секретариаты",
+			"Weight":1
+		},
+		{
+			"ParentName":"Москва",
+			"ComponentName":"Финансовый блок",
+			"Weight":1
+		},
+		{
+			"ParentName":"Москва",
+			"ComponentName":"Руководство (общепроизводственные расходы)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Санкт-Петербург",
+			"ComponentName":"Блок внутреннего контроля",
+			"Weight":1
+		},
+		{
+			"ParentName":"Санкт-Петербург",
+			"ComponentName":"Учебно-курсовой комбинат",
+			"Weight":1
+		},
+		{
+			"ParentName":"Волгоград",
+			"ComponentName":"Пекарня",
+			"Weight":1
+		},
+		{
+			"ParentName":"Волгоград",
+			"ComponentName":"Исследовательский центр",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Проектный центр",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Магазины",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Парк экскаваторов",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Буровзрывной цех",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Буровой участок",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Фабрика",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Пожарная охрана",
+			"Weight":1
+		},
+		{
+			"ParentName":"Пермь",
+			"ComponentName":"Склады",
+			"Weight":1
+		},
+		{
+			"ParentName":"Владивосток",
+			"ComponentName":"Молочный цех",
+			"Weight":1
+		},
+		{
+			"ParentName":"Владивосток",
+			"ComponentName":"Геологическая служба",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"ЦФО.subsets/Москва.json",
+		"ЦФО.subsets/Пермь.json"
+	]
+}

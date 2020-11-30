@@ -6,7 +6,7 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Cubes('ФОТ')",
-        "!Cubes/Views('Россия План')"
+        "!Processes('Импорт Куб ФОТ')",
+        "!Processes('Сохранение данных')"
     ]
 }

@@ -6,7 +6,7 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Processes('Импорт Куб ФОТ')",
-        "!Processes('Сохранение данных')"
+        "!Dimensions('SomeDim')",
+        "!Dimensions('Dimensions')"
     ]
 }

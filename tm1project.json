@@ -6,7 +6,6 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Dimensions('SomeDim')",
-        "!Dimensions('Dimensions')"
+        "!Chores('Сохранение данных')"
     ]
 }

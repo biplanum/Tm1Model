@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"ExecutionMode",
+	"Elements":
+	[
+		{
+			"Name":"MultipleComit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SingleCommit",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

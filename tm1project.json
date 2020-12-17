@@ -6,6 +6,7 @@
         "Dimensions",
         "Processes",
         "Chores",
+        "!Dimensions('ExecutionMode')",
         "!Chores('Сохранение данных')"
     ]
 }

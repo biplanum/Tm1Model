@@ -7,6 +7,6 @@
         "Processes",
         "Chores",
         "!Chores('Сохранение данных')",
-        "!Dimensions('ExecutionMode')"
+        "!Cubes('Амортизация ОС')"
     ]
 }

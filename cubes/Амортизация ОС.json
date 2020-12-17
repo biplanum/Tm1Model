@@ -1,0 +1,21 @@
+{
+	"@type":"Cube",
+	"Name":"Амортизация ОС",
+	"Rules@Code.link":"Амортизация ОС.rules",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Версии')"
+		},
+		{
+			"@id":"Dimensions('Список')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')"
+		},
+		{
+			"@id":"Dimensions('Показатели Амортизация ОС')"
+		}
+	],
+	"Views@Code.links":[]
+}

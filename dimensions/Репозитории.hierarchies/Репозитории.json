@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Репозитории",
+	"Elements":
+	[
+		{
+			"Name":"https://github.com/biplanum/Tm1Model.git",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"https://github.com/biplanum/Education_MagomedovaS.git",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"Москва",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Административно-хозяйственный блок')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Аппарат и секретариаты')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Финансовый блок')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Руководство (общепроизводственные расходы)')"
+		}
+	]
+}

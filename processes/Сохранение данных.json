@@ -1,0 +1,11 @@
+{
+	"@type":"Process",
+	"Name":"Сохранение данных",
+	"Code@Code.link":"Сохранение данных.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[]
+}

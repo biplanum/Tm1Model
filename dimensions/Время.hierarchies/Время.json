@@ -12,6 +12,18 @@
 			"Type":"Consolidated"
 		},
 		{
+			"Name":"2-ой квартал",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"3-ий квартал",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"4-ый квартал",
+			"Type":"Consolidated"
+		},
+		{
 			"Name":"Январь",
 			"Type":"Numeric"
 		},
@@ -20,35 +32,11 @@
 			"Type":"Numeric"
 		},
 		{
-			"Name":"Март",
-			"Type":"Numeric"
-		},
-		{
-			"Name":"2-ой квартал",
-			"Type":"Consolidated"
-		},
-		{
-			"Name":"Апрель",
-			"Type":"Numeric"
-		},
-		{
-			"Name":"Май",
-			"Type":"Numeric"
-		},
-		{
 			"Name":"Июнь",
 			"Type":"Numeric"
 		},
 		{
-			"Name":"3-ий квартал",
-			"Type":"Consolidated"
-		},
-		{
-			"Name":"Июль",
-			"Type":"Numeric"
-		},
-		{
-			"Name":"Август",
+			"Name":"Апрель",
 			"Type":"Numeric"
 		},
 		{
@@ -56,11 +44,15 @@
 			"Type":"Numeric"
 		},
 		{
-			"Name":"4-ый квартал",
-			"Type":"Consolidated"
+			"Name":"Август",
+			"Type":"Numeric"
 		},
 		{
-			"Name":"Октябрь",
+			"Name":"Июль",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Декабрь",
 			"Type":"Numeric"
 		},
 		{
@@ -68,7 +60,15 @@
 			"Type":"Numeric"
 		},
 		{
-			"Name":"Декабрь",
+			"Name":"Октябрь",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Май",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Март",
 			"Type":"Numeric"
 		}
 	],
@@ -155,5 +155,9 @@
 			"Weight":1
 		}
 	],
-	"Subsets@Code.links":[]
+	"Subsets@Code.links":
+	[
+		"Время.subsets/Месяцы.json",
+		"Время.subsets/Первое полугодие.json"
+	]
 }

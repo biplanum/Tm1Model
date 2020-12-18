@@ -1,16 +1,16 @@
 {
 	"@type":"Process",
-	"Name":"Измерение ФОТ",
-	"Code@Code.link":"Измерение ФОТ.ti",
+	"Name":"Импорт Куб ФОТ",
+	"Code@Code.link":"Импорт Куб ФОТ.ti",
 	"DataSource":
 	{
 		"Type":"ASCII",
-		"asciiDecimalSeparator":",",
+		"asciiDecimalSeparator":".",
 		"asciiDelimiterChar":";",
 		"asciiDelimiterType":"Character",
 		"asciiHeaderRecords":1,
 		"asciiQuoteCharacter":"\"",
-		"asciiThousandSeparator":".",
+		"asciiThousandSeparator":",",
 		"dataSourceNameForClient":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\фот.csv",
 		"dataSourceNameForServer":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\фот.csv"
 	},
@@ -25,9 +25,37 @@
 			"EndByte":0
 		},
 		{
+			"Name":"V2",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
 			"Name":"V3",
 			"Type":"String",
 			"Position":3,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V4",
+			"Type":"String",
+			"Position":4,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V5",
+			"Type":"String",
+			"Position":5,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V6",
+			"Type":"String",
+			"Position":6,
 			"StartByte":0,
 			"EndByte":0
 		},

@@ -4,6 +4,30 @@
 	"Elements":
 	[
 		{
+			"Name":"Итого по Центрам затрат",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Германия",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Лаборатория",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Технологический отдел",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"США",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Инвестиционный блок",
+			"Type":"Numeric"
+		},
+		{
 			"Name":"Россия",
 			"Type":"Consolidated"
 		},
@@ -98,34 +122,40 @@
 		{
 			"Name":"Геологическая служба",
 			"Type":"Numeric"
-		},
-		{
-			"Name":"Итого по Центрам затрат",
-			"Type":"Consolidated"
-		},
-		{
-			"Name":"Германия",
-			"Type":"Consolidated"
-		},
-		{
-			"Name":"Лаборатория",
-			"Type":"Numeric"
-		},
-		{
-			"Name":"Технологический отдел",
-			"Type":"Numeric"
-		},
-		{
-			"Name":"США",
-			"Type":"Consolidated"
-		},
-		{
-			"Name":"Инвестиционный блок",
-			"Type":"Numeric"
 		}
 	],
 	"Edges":
 	[
+		{
+			"ParentName":"Итого по Центрам затрат",
+			"ComponentName":"Германия",
+			"Weight":1
+		},
+		{
+			"ParentName":"Итого по Центрам затрат",
+			"ComponentName":"США",
+			"Weight":1
+		},
+		{
+			"ParentName":"Итого по Центрам затрат",
+			"ComponentName":"Россия",
+			"Weight":1
+		},
+		{
+			"ParentName":"Германия",
+			"ComponentName":"Лаборатория",
+			"Weight":1
+		},
+		{
+			"ParentName":"Германия",
+			"ComponentName":"Технологический отдел",
+			"Weight":1
+		},
+		{
+			"ParentName":"США",
+			"ComponentName":"Инвестиционный блок",
+			"Weight":1
+		},
 		{
 			"ParentName":"Россия",
 			"ComponentName":"Москва",
@@ -240,32 +270,11 @@
 			"ParentName":"Владивосток",
 			"ComponentName":"Геологическая служба",
 			"Weight":1
-		},
-		{
-			"ParentName":"Итого по Центрам затрат",
-			"ComponentName":"Германия",
-			"Weight":1
-		},
-		{
-			"ParentName":"Итого по Центрам затрат",
-			"ComponentName":"США",
-			"Weight":1
-		},
-		{
-			"ParentName":"Германия",
-			"ComponentName":"Лаборатория",
-			"Weight":1
-		},
-		{
-			"ParentName":"Германия",
-			"ComponentName":"Технологический отдел",
-			"Weight":1
-		},
-		{
-			"ParentName":"США",
-			"ComponentName":"Инвестиционный блок",
-			"Weight":1
 		}
 	],
-	"Subsets@Code.links":[]
+	"Subsets@Code.links":
+	[
+		"ЦФО.subsets/Москва.json",
+		"ЦФО.subsets/Пермь.json"
+	]
 }

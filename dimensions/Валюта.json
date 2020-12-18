@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Валюта",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Валюта')/Hierarchies('Валюта')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Валюта.hierarchies/Валюта.json"
+	]
+}

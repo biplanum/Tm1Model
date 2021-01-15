@@ -1,6 +1,5 @@
 SKIPCHECK;
-#some comment from prod
-#dev
+#some comment from dev
 ['На весь персонал']=['На одного человека']*['Количество'];
 FEEDERS;
 ['Количество'] => ['На весь персонал'];

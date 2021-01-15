@@ -26,5 +26,8 @@
 			"@id":"Dimensions('Показатели ФОТ')"
 		}
 	],
-	"Views@Code.links":[]
+	"Views@Code.links":
+	[
+		"ФОТ.views/Россия План.json"
+	]
 }

@@ -1,0 +1,49 @@
+{
+	"@type":"Process",
+	"Name":"Измерение ФОТ",
+	"Code@Code.link":"Измерение ФОТ.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":",",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":".",
+		"dataSourceNameForClient":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\фот.csv",
+		"dataSourceNameForServer":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\фот.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"V1",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V3",
+			"Type":"String",
+			"Position":3,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V7",
+			"Type":"String",
+			"Position":7,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V8",
+			"Type":"Numeric",
+			"Position":8,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

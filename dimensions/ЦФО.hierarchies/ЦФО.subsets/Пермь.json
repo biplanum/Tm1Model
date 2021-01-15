@@ -1,0 +1,31 @@
+{
+	"@type":"Subset",
+	"Name":"Пермь",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Проектный центр')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Магазины')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Парк экскаваторов')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Буровзрывной цех')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Буровой участок')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Фабрика')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Пожарная охрана')"
+		},
+		{
+			"@id":"Dimensions('ЦФО')/Hierarchies('ЦФО')/Elements('Склады')"
+		}
+	]
+}

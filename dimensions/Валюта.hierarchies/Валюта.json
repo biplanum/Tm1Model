@@ -1,0 +1,24 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Валюта",
+	"Elements":
+	[
+		{
+			"Name":"Основная валюта",
+			"Type":"String"
+		},
+		{
+			"Name":"Рубль (RUB)",
+			"Type":"String"
+		},
+		{
+			"Name":"Доллар (USD)",
+			"Type":"String"
+		},
+		{
+			"Name":"Евро (EUR)",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

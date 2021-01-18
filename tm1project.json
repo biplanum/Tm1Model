@@ -6,7 +6,6 @@
         "Dimensions",
         "Processes",
         "Chores",
-        "!Cubes('ФОТ')",
-        "!Dimensions('Репозитории')"
+        "!Processes('Измерение Статьи затрат')"
     ]
 }

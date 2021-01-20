@@ -1,0 +1,42 @@
+{
+	"@type":"Process",
+	"Name":"Измерение Статьи затрат",
+	"Code@Code.link":"Измерение Статьи затрат.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":0,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\статьи затрат.csv",
+		"dataSourceNameForServer":"C:\\Users\\MagomedovaS\\Downloads\\Курс PAW\\статьи затрат.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"V1",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V2",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V3",
+			"Type":"String",
+			"Position":3,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}
